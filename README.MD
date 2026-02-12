@@ -1,4 +1,4 @@
-# Pipeline de Auditoria e Saneamento de Dados (Python)
+# Pipeline de Auditoria e Saneamento de Dados (Python Script)
 
 Este projeto foi desenvolvido com o objetivo de automatizar a conferência, tabulação e validação de grandes bases de dados, substituindo auditorias manuais por um processo programático, rápido e auditável.
 
@@ -50,3 +50,4 @@ Ao utilizar esta ferramenta em cenários reais, os ganhos observados foram:
     ```python
     python validador_excel.py
     ```
+
